@@ -10,7 +10,6 @@
     {
       name: "cid",
       type: T.Type.Integer,
-      defaultValue: null,
       primaryKey: true
     }, {
       name: "name",

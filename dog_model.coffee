@@ -6,7 +6,6 @@ DogCategory = toshihiko.define 'dog_category',
     {
       name: "cid"
       type: T.Type.Integer
-      defaultValue: null
       primaryKey: true
     }
     {
