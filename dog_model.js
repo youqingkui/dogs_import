@@ -27,6 +27,10 @@
       name: "first_letter",
       type: T.Type.String,
       defaultValue: ""
+    }, {
+      name: "en_name",
+      type: T.Type.String,
+      defaultValue: ""
     }
   ]);
 

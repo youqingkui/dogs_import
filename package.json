@@ -2,6 +2,7 @@
   "name": "dogs_read",
   "version": "0.0.1",
   "dependencies": {
+    "async": "^0.9.0",
     "toshihiko": "0.1.0-prepub-26-test2",
     "transliteration": "0.0.7"
   }

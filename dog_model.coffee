@@ -28,6 +28,11 @@ DogCategory = toshihiko.define 'dog_category',
       type: T.Type.String
       defaultValue: ""
     }
+    {
+      name: "en_name"
+      type: T.Type.String
+      defaultValue: ""
+    }
   ]
 
 module.exports = DogCategory
